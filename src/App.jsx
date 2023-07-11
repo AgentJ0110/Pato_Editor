@@ -2,7 +2,7 @@ import "./styles.css";
 
 export const App = () => {
   const onClickButton = () => {
-    alert("あ");
+    alert("こんにちは");
   };
   return (
     <>
